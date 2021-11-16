@@ -1,1 +1,3 @@
-https://nik-davis.github.io/posts/2019/steam-data-cleaning/
+## Steam Unclean Data
+
+There is a clean alternative to the dataset, but this project will my data cleaning skillset.
