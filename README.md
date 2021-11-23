@@ -1,4 +1,4 @@
-# Steam
+# Steam - Analysis
 ## *Further Data Cleaning, EDA and Game Recommendation*
 
 This project uses a raw Steam dataset.
@@ -16,4 +16,4 @@ This project will carry some simillar analysis from previous projects, however, 
 
 *(03) represents this as my 3rd personal project since joining GSK in Sept. 2021*
 
-![STEAM Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/480px-Steam_icon_logo.svg.png)
+![STEAM Logo](https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png)
