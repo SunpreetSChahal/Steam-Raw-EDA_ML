@@ -1,4 +1,6 @@
-## Steam Unclean Data
+## Steam
+
+### *Further Data Cleaning, EDA and Game Recommendation
 
 This project uses an unclean Steam dataset.
 
@@ -10,5 +12,7 @@ The aim of this project is to:
 
 This project will carry some simillar analysis from previous projects, however, the process of data cleaning will be drastically more advanced (relative to my previous work).
 
+
 *...PREVIEW.csv - is a snipped version of the original dataset, original dataset has 29235 rows, instead of 50*
+
 *(03) represents this as my 3rd personal project since joining GSK in Sept. 2021*
