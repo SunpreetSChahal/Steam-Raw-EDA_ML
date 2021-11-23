@@ -1,5 +1,5 @@
 ## Steam
-#### *Further Data Cleaning, EDA and Game Recommendation*
+### *Further Data Cleaning, EDA and Game Recommendation*
 
 This project uses an unclean Steam dataset.
 
