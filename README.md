@@ -1,11 +1,11 @@
 # Steam
 ## *Further Data Cleaning, EDA and Game Recommendation*
 
-This project uses an unclean Steam dataset.
+This project uses a raw Steam dataset.
 
 The aim of this project is to:
 - Clean data, initally in a notebook
-- Transfer code to an IDE and upload a script for the data cleanse
+- Transfer code to an IDE and upload a script for the data cleansing process
 - Complete EDA on various topics
 - Create a recommendation system for the media on Steam
 
