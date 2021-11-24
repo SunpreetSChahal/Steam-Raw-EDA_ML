@@ -15,6 +15,7 @@ This project will carry some simillar analysis from previous projects, however, 
 *...PREVIEW.csv - is a snipped version of the original dataset, original dataset has 29235 rows, instead of 50*
 
 *(03) represents this as my 3rd personal project since joining GSK in Sept. 2021*
+___________________________________________________________________________________________________________________________________________________________________________________
 
 *For personal reference, in this project I cover:*
 - Cleaning data via processes: working in a top-down method
