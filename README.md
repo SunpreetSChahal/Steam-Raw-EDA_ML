@@ -18,6 +18,7 @@ This project will carry some simillar analysis from previous projects, however, 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 *Within the notebooks I have included a "Future reference" summary under each section*
+
 *The purpost of this is to easily use this project as reference for any future projects, where I can transfer code/concepts*
 
 
