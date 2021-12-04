@@ -20,6 +20,13 @@ ________________________________________________________________________________
 
 *The purpost of this is to easily use this project as reference for any future projects, where I can transfer code/concepts*
 
+___________________________________________________________________________________________________________________________________________________________________________________
+
+### How can I replicate this project to embed this knowledge?
+- Collect data first-hand (data-sourcing)
+- Clean that raw data:
+-  d
+-  
 
  
 ![STEAM Logo](https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png)
