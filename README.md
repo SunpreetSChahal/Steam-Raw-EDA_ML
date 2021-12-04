@@ -14,11 +14,6 @@ This project will carry some simillar analysis from previous projects, however, 
 *...PREVIEW.csv - is a snipped version of the original dataset, original dataset has 29235 rows, instead of 50*
 
 *(03) represents this as my 3rd personal project since joining GSK in Sept. 2021*
-___________________________________________________________________________________________________________________________________________________________________________________
-
-#### *Within the notebooks I have included a "Future reference" summary under each section*
-
-*The purpost of this is to easily use this project as reference for any future projects, where I can transfer code/concepts*
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -30,3 +25,9 @@ ________________________________________________________________________________
 2) Optimising the code from process 1.
 3) Quick brief overview of the cleaned data
 - Perform EDA
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+#### *Within the notebooks I have included a "Future reference" summary under each section*
+
+*The purpost of this is to easily use this project as reference for any future projects, where I can transfer code/concepts*
