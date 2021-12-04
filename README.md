@@ -1,7 +1,7 @@
 # Steam - Analysis
 ## *Further Data Cleaning, EDA and Game Recommendation*
 
-This project uses a raw Steam dataset.
+This project is my first project which leans towards *data engineering*, with empahsis on converting raw data into something that is useable and accurate. Cleaning raw data, whereas my previous projects brushed over the cleaning process.
 
 The aim of this project is to:
 - Clean data, initally in a notebook
@@ -23,6 +23,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ### How can I replicate this project to embed this knowledge?
+
 - Collect data first-hand (data-sourcing)
 - Clean that data:
 1) Cleaning the raw data
